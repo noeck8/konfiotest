@@ -1,7 +1,7 @@
 {
   "name": "pruebakonfio",
   "version": "1.0.0",
-  "description": "Scraper E-Commerce API",
+  "description": "Scraper API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/generalgmt/RESTfulAPI.git"
+    "url": "git+https://github.com/noeck8/konfiotest.git"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
