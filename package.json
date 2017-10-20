@@ -1,0 +1,25 @@
+{
+  "name": "pruebakonfio",
+  "version": "1.0.0",
+  "description": "Scraper E-Commerce API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/generalgmt/RESTfulAPI.git"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.3.0",
+    "mongoose": "^4.7.2",
+    "osmosis": "^1.1.4"
+  }
+}
